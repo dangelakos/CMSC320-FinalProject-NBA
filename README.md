@@ -2,5 +2,5 @@
 Group Members:
   Michael Sinai,
   Dimitrios Angelakos,
-  Ryley,
+  Ryley Haynes,
   Aidan
