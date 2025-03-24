@@ -3,4 +3,4 @@ Group Members:
   Michael Sinai,
   Dimitrios Angelakos,
   Ryley Haynes,
-  Aidan
+  Aidan Caruso
